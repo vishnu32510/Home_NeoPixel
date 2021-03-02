@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684625410996",
+    "project_id": "home-neopixel-75044",
+    "storage_bucket": "home-neopixel-75044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684625410996:android:2bc73e73adbf39645790e1",
+        "android_client_info": {
+          "package_name": "com.home_dec_neopixel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684625410996-g5ivsv0ecu0beu2o3mbpjh6tq3m0v9do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8O_XwGuyMHwFIMhNIAawQJCnDQWuXfUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684625410996-g5ivsv0ecu0beu2o3mbpjh6tq3m0v9do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
